@@ -1,0 +1,9 @@
+body {
+    background-image: url('ko.jpg');
+    background-repeat: repeat-x;
+    background-position:top, center;
+}
+h4 {
+    font-size: 30px;
+    color: rgb(255, 0, 0);
+}
